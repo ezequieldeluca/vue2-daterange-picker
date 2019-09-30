@@ -15,4 +15,3 @@ selenium-debug.log
 *.sln
 
 docs/.vuepress/dist
-dist/
